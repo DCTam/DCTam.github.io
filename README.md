@@ -1,3 +1,3 @@
-The Odin Project
+Personal website
 
-Making a browser sketch site.
+Resume and project
