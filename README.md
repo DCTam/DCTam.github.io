@@ -1,3 +1,3 @@
 Personal website
 
-Resume and project
+Display resume and projects
